@@ -1,0 +1,74 @@
+id,title,module,level,page,dur,voices,plays,part,url
+F-STATION,Das Krankenhaus & die Station,Start,A1,8,1:09,de-DE-KatjaNeural,1,front,https://hamaysfi.github.io/audio_pfleger/F-STATION.mp3
+F-CHECK-H1,Niveau-Check Hören A1,Start,A1,9,0:33,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,2,front,https://hamaysfi.github.io/audio_pfleger/F-CHECK-H1.mp3
+F-CHECK-H2,Niveau-Check Hören A2,Start,A2,9,0:31,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,2,front,https://hamaysfi.github.io/audio_pfleger/F-CHECK-H2.mp3
+F-CHECK-H3,Niveau-Check Hören B1,Start,B1,9,0:11,de-DE-KatjaNeural,1,front,https://hamaysfi.github.io/audio_pfleger/F-CHECK-H3.mp3
+F-CHECK-H4,Niveau-Check Hören B2,Start,B2,9,0:14,de-DE-ConradNeural de-DE-KatjaNeural,1,front,https://hamaysfi.github.io/audio_pfleger/F-CHECK-H4.mp3
+M01-W1,Wortschatz 1: Krankenhaus und Team,Modul 1,A1,12,1:57,de-DE-KatjaNeural,1,modul-01,https://hamaysfi.github.io/audio_pfleger/M01-W1.mp3
+M01-W2,Wortschatz 2: Berufe und Räume,Modul 1,B1,13,1:27,de-DE-KatjaNeural,1,modul-01,https://hamaysfi.github.io/audio_pfleger/M01-W2.mp3
+M01-D,Dialog: Der erste Tag,Modul 1,A2,14,1:01,de-DE-AmalaNeural de-DE-KatjaNeural,1,modul-01,https://hamaysfi.github.io/audio_pfleger/M01-D.mp3
+M01-H,Hören: Rundgang mit Jonas,Modul 1,B1,19,2:47,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,2,modul-01,https://hamaysfi.github.io/audio_pfleger/M01-H.mp3
+M01-AUS,Aussprache: schwere Wörter,Modul 1,A2,20,0:27,de-DE-KatjaNeural,1,modul-01,https://hamaysfi.github.io/audio_pfleger/M01-AUS.mp3
+M01-PF,Prüfungs-Fit: Nachrichten auf der Mailbox,Modul 1,B2,23,2:08,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-01,https://hamaysfi.github.io/audio_pfleger/M01-PF.mp3
+M02-W1,Wortschatz 1: Der Körper,Modul 2,A1,26,1:41,de-DE-KatjaNeural,1,modul-02,https://hamaysfi.github.io/audio_pfleger/M02-W1.mp3
+M02-W2,Wortschatz 2: Organe,Modul 2,B1,27,1:09,de-DE-KatjaNeural,1,modul-02,https://hamaysfi.github.io/audio_pfleger/M02-W2.mp3
+M02-D,Dialog: Übungen nach der OP,Modul 2,A2,28,1:02,de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-02,https://hamaysfi.github.io/audio_pfleger/M02-D.mp3
+M02-H,Hören: Wo tut es weh?,Modul 2,B1,33,2:51,de-AT-IngridNeural de-DE-AmalaNeural de-DE-KatjaNeural,2,modul-02,https://hamaysfi.github.io/audio_pfleger/M02-H.mp3
+M02-AUS,Aussprache: schwere Wörter,Modul 2,A2,34,0:25,de-DE-KatjaNeural,1,modul-02,https://hamaysfi.github.io/audio_pfleger/M02-AUS.mp3
+M03-W1,Wortschatz 1: Aufnahme und Hilfsmittel,Modul 3,A2,40,1:54,de-DE-KatjaNeural,1,modul-03,https://hamaysfi.github.io/audio_pfleger/M03-W1.mp3
+M03-W2,Wortschatz 2: Anamnese,Modul 3,B1,41,1:26,de-DE-KatjaNeural,1,modul-03,https://hamaysfi.github.io/audio_pfleger/M03-W2.mp3
+M03-D,Dialog: Die Aufnahme,Modul 3,A2,42,1:11,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,1,modul-03,https://hamaysfi.github.io/audio_pfleger/M03-D.mp3
+M03-H,Hören: Mehdi nimmt Frau Hoffmann auf,Modul 3,B1,47,2:59,de-AT-IngridNeural de-DE-KatjaNeural de-DE-KillianNeural,2,modul-03,https://hamaysfi.github.io/audio_pfleger/M03-H.mp3
+M03-AUS,Aussprache: schwere Wörter,Modul 3,A2,48,0:27,de-DE-KatjaNeural,1,modul-03,https://hamaysfi.github.io/audio_pfleger/M03-AUS.mp3
+M04-W1,Wortschatz 1: Messen und Geräte,Modul 4,A1,54,1:54,de-DE-KatjaNeural,1,modul-04,https://hamaysfi.github.io/audio_pfleger/M04-W1.mp3
+M04-W2,Wortschatz 2: Fachsprache auf Station,Modul 4,B1,55,1:15,de-DE-KatjaNeural,1,modul-04,https://hamaysfi.github.io/audio_pfleger/M04-W2.mp3
+M04-D,Dialog: Blutdruck messen,Modul 4,A2,56,1:12,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,1,modul-04,https://hamaysfi.github.io/audio_pfleger/M04-D.mp3
+M04-H,Hören: Werte am Telefon,Modul 4,B1,61,2:48,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,2,modul-04,https://hamaysfi.github.io/audio_pfleger/M04-H.mp3
+M04-AUS,Aussprache: schwere Wörter,Modul 4,A2,62,0:28,de-DE-KatjaNeural,1,modul-04,https://hamaysfi.github.io/audio_pfleger/M04-AUS.mp3
+M05-W1,Wortschatz 1: Schmerz und Symptome,Modul 5,A1,68,1:33,de-DE-KatjaNeural,1,modul-05,https://hamaysfi.github.io/audio_pfleger/M05-W1.mp3
+M05-W2,Wortschatz 2: Schmerz beschreiben,Modul 5,B1,69,1:07,de-DE-KatjaNeural,1,modul-05,https://hamaysfi.github.io/audio_pfleger/M05-W2.mp3
+M05-D,Dialog: Schmerzen in der Nacht,Modul 5,A2,70,1:04,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,1,modul-05,https://hamaysfi.github.io/audio_pfleger/M05-D.mp3
+M05-H,Hören: Herr Krüger und Dr. Wagner,Modul 5,B1,75,3:04,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,2,modul-05,https://hamaysfi.github.io/audio_pfleger/M05-H.mp3
+M05-AUS,Aussprache: schwere Wörter,Modul 5,A2,76,0:24,de-DE-KatjaNeural,1,modul-05,https://hamaysfi.github.io/audio_pfleger/M05-AUS.mp3
+M05-PF,Prüfungs-Fit: Gespräche aus dem Pflegealltag,Modul 5,B2,79,2:52,de-AT-IngridNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-05,https://hamaysfi.github.io/audio_pfleger/M05-PF.mp3
+M06-W1,Wortschatz 1: Körperpflege und Bewegung,Modul 6,A1,82,1:45,de-DE-KatjaNeural,1,modul-06,https://hamaysfi.github.io/audio_pfleger/M06-W1.mp3
+M06-W2,Wortschatz 2: Mobilisation und Prophylaxen,Modul 6,B1,83,1:21,de-DE-KatjaNeural,1,modul-06,https://hamaysfi.github.io/audio_pfleger/M06-W2.mp3
+M06-D,"Dialog: Guten Morgen, Frau Schulz!",Modul 6,A2,84,1:10,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,1,modul-06,https://hamaysfi.github.io/audio_pfleger/M06-D.mp3
+M06-H,Hören: Transfer in den Rollstuhl,Modul 6,B1,89,2:54,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,2,modul-06,https://hamaysfi.github.io/audio_pfleger/M06-H.mp3
+M06-AUS,Aussprache: schwere Wörter,Modul 6,A2,90,0:29,de-DE-KatjaNeural,1,modul-06,https://hamaysfi.github.io/audio_pfleger/M06-AUS.mp3
+M07-W1,"Wortschatz 1: Essen, Trinken, Toilette",Modul 7,A1,96,1:52,de-DE-KatjaNeural,1,modul-07,https://hamaysfi.github.io/audio_pfleger/M07-W1.mp3
+M07-W2,Wortschatz 2: Kostformen und Ausscheidung,Modul 7,B1,97,1:20,de-DE-KatjaNeural,1,modul-07,https://hamaysfi.github.io/audio_pfleger/M07-W2.mp3
+M07-D,Dialog: Noch ein Glas?,Modul 7,A2,98,0:55,de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-07,https://hamaysfi.github.io/audio_pfleger/M07-D.mp3
+M07-H,Hören: Die Küche ruft an,Modul 7,B1,103,2:56,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,2,modul-07,https://hamaysfi.github.io/audio_pfleger/M07-H.mp3
+M07-AUS,Aussprache: schwere Wörter,Modul 7,A2,104,0:27,de-DE-KatjaNeural,1,modul-07,https://hamaysfi.github.io/audio_pfleger/M07-AUS.mp3
+M08-W1,Wortschatz 1: Medikamente,Modul 8,A1,110,1:54,de-DE-KatjaNeural,1,modul-08,https://hamaysfi.github.io/audio_pfleger/M08-W1.mp3
+M08-W2,Wortschatz 2: Applikation,Modul 8,B1,111,1:27,de-DE-KatjaNeural,1,modul-08,https://hamaysfi.github.io/audio_pfleger/M08-W2.mp3
+M08-D,"Dialog: Ihre Tabletten, Herr Krüger",Modul 8,A2,112,1:22,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,1,modul-08,https://hamaysfi.github.io/audio_pfleger/M08-D.mp3
+M08-H,Hören: Eine telefonische Anordnung,Modul 8,B2,117,3:10,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,2,modul-08,https://hamaysfi.github.io/audio_pfleger/M08-H.mp3
+M08-AUS,Aussprache: schwere Wörter,Modul 8,A2,118,0:27,de-DE-KatjaNeural,1,modul-08,https://hamaysfi.github.io/audio_pfleger/M08-AUS.mp3
+M09-W1,Wortschatz 1: Hygiene,Modul 9,A1,124,1:56,de-DE-KatjaNeural,1,modul-09,https://hamaysfi.github.io/audio_pfleger/M09-W1.mp3
+M09-W2,Wortschatz 2: Wunde und Verband,Modul 9,B1,125,1:13,de-DE-KatjaNeural,1,modul-09,https://hamaysfi.github.io/audio_pfleger/M09-W2.mp3
+M09-D,Dialog: Zuerst die Hände!,Modul 9,B1,126,0:55,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,1,modul-09,https://hamaysfi.github.io/audio_pfleger/M09-D.mp3
+M09-H,Hören: Isolation bei MRSA,Modul 9,B2,131,3:17,de-DE-KatjaNeural de-DE-KillianNeural,2,modul-09,https://hamaysfi.github.io/audio_pfleger/M09-H.mp3
+M09-AUS,Aussprache: schwere Wörter,Modul 9,A2,132,0:27,de-DE-KatjaNeural,1,modul-09,https://hamaysfi.github.io/audio_pfleger/M09-AUS.mp3
+M10-W1,Wortschatz 1: Notfall und Telefon,Modul 10,A1,138,1:59,de-DE-KatjaNeural,1,modul-10,https://hamaysfi.github.io/audio_pfleger/M10-W1.mp3
+M10-W2,Wortschatz 2: Notfall-Fachwörter,Modul 10,B1,139,1:19,de-DE-KatjaNeural,1,modul-10,https://hamaysfi.github.io/audio_pfleger/M10-W2.mp3
+M10-D,Dialog: Anruf in der Nacht,Modul 10,B1,140,1:17,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,1,modul-10,https://hamaysfi.github.io/audio_pfleger/M10-D.mp3
+M10-H,Hören: Telefonate im Spätdienst,Modul 10,B2,145,3:45,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,2,modul-10,https://hamaysfi.github.io/audio_pfleger/M10-H.mp3
+M10-AUS,Aussprache: schwere Wörter,Modul 10,A2,146,0:26,de-DE-KatjaNeural,1,modul-10,https://hamaysfi.github.io/audio_pfleger/M10-AUS.mp3
+M10-PF,Prüfungs-Fit: Teamsitzung,Modul 10,B2,149,2:15,de-DE-AmalaNeural de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-10,https://hamaysfi.github.io/audio_pfleger/M10-PF.mp3
+M11-W1,Wortschatz 1: Dokumentieren,Modul 11,A1,152,1:57,de-DE-KatjaNeural,1,modul-11,https://hamaysfi.github.io/audio_pfleger/M11-W1.mp3
+M11-W2,Wortschatz 2: Fachsprache im Bericht,Modul 11,B1,153,0:23,de-DE-KatjaNeural,1,modul-11,https://hamaysfi.github.io/audio_pfleger/M11-W2.mp3
+M11-D,Dialog: Die Übergabe,Modul 11,B1,154,1:12,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-11,https://hamaysfi.github.io/audio_pfleger/M11-D.mp3
+M11-H,Hören: Übergabe im Stationszimmer,Modul 11,B2,159,3:01,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,2,modul-11,https://hamaysfi.github.io/audio_pfleger/M11-H.mp3
+M11-AUS,Aussprache: schwere Wörter,Modul 11,A2,160,0:26,de-DE-KatjaNeural,1,modul-11,https://hamaysfi.github.io/audio_pfleger/M11-AUS.mp3
+M12-W1,Wortschatz 1: Gefühle und Familie,Modul 12,A1,166,1:48,de-DE-KatjaNeural,1,modul-12,https://hamaysfi.github.io/audio_pfleger/M12-W1.mp3
+M12-W2,Wortschatz 2: Demenz und Palliativpflege,Modul 12,B1,167,0:56,de-DE-KatjaNeural,1,modul-12,https://hamaysfi.github.io/audio_pfleger/M12-W2.mp3
+M12-D,Dialog: Die Tochter ist ärgerlich,Modul 12,B1,168,1:03,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,1,modul-12,https://hamaysfi.github.io/audio_pfleger/M12-D.mp3
+M12-H,Hören: Ein Anruf und die Schweigepflicht,Modul 12,B2,173,3:18,de-AT-JonasNeural de-DE-KatjaNeural de-DE-KillianNeural,2,modul-12,https://hamaysfi.github.io/audio_pfleger/M12-H.mp3
+M12-AUS,Aussprache: schwere Wörter,Modul 12,A2,174,0:25,de-DE-KatjaNeural,1,modul-12,https://hamaysfi.github.io/audio_pfleger/M12-AUS.mp3
+M12-PF,Prüfungs-Fit: Pausengespräch,Modul 12,B2,177,2:22,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,1,modul-12,https://hamaysfi.github.io/audio_pfleger/M12-PF.mp3
+MP-H1,Mini-Prüfung Hören Teil 1,Anhang,B1,179,1:00,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,1,back,https://hamaysfi.github.io/audio_pfleger/MP-H1.mp3
+MP-H2,Mini-Prüfung Hören Teil 2,Anhang,B1,179,1:02,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural,1,back,https://hamaysfi.github.io/audio_pfleger/MP-H2.mp3
+MP-H3,Mini-Prüfung Hören Teil 3,Anhang,B2,179,0:55,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,1,back,https://hamaysfi.github.io/audio_pfleger/MP-H3.mp3
+MP-H4,Mini-Prüfung Hören Teil 4,Anhang,B2,179,1:12,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,1,back,https://hamaysfi.github.io/audio_pfleger/MP-H4.mp3
